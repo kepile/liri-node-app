@@ -96,8 +96,6 @@ function movie(){
 		var tomatoURL = "https://www.rottentomatoes.com/m/mr_nobody/"; 
     } else
     {
-       		for (i=0; i<input.length; i++){
-		};
 		
 
 	    // Join the input together with connector accepted by omdb 
@@ -109,8 +107,13 @@ function movie(){
 		// if only 1 string was entered, seperate it into individual words
 		// to change into the tomato url
 		if (input[1] === undefined){
+			input[0] = input[0].replace(/"/g, '');
 			input = input[0].split(" ");
 
+       		for (i=0; i<input.length; i++){
+		
+	console.log("i= " + input[i]);
+	};
 		};
 
 		// loop thru movie name array
@@ -274,9 +277,13 @@ function doWhat(){
 		
 		// store the command in var
 		command = data[0];
-		data[1] = data[1].trim();
+		if (data[1] != undefined) {
+			data[1] = data[1].trim();
+		};
 		// store the argument in input
 		input = data.slice(1);
+		console.log(data[1]);
+	
 		// call the execute function with the data that was read
 		execute();
 
