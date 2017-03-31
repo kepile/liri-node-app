@@ -1,0 +1,213 @@
+my-tweets
+Tue, Mar 28, 2017 @ 16:42:48: https://t.co/s9wZFan3oN
+Tue, Mar 28, 2017 @ 16:41:40: https://t.co/YLjwTA0LtY
+Tue, Mar 28, 2017 @ 16:38:32: Tasting Room is Giving Liquor Stores a Run for Their Money via @popdust https://t.co/jgaehqFKoQ
+Tue, Mar 28, 2017 @ 16:37:47: https://t.co/9nCgEiYqQC
+Tue, Mar 28, 2017 @ 16:37:19: https://t.co/nAhS9WHwJh
+Fri, Apr 03, 2015 @ 20:41:27: @FCC I want my FM radio! Encourage FM chip activation on all smartphones so I can get lifesaving info for free! #publicsafety #freeradio
+Fri, Apr 03, 2015 @ 20:41:10: @VerizonSupport I want my FM radio! Unlock the FM chip on all @Verizonwireless phones so I can listen for free! #unlockFM #freeradio
+-------------------------------------------------------------------
+spotify-this-song the+sign+artist:ace+of+base
+Artist: Ace of Base
+-------------------------------------------------------------------
+Song: The Sign
+Preview_url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+Album: The Sign (US Album) [Remastered]
+spotify-this-song hello
+Artist: Adele
+Preview_url: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=null
+Song: Hello
+Album: Hello
+-------------------------------------------------------------------
+spotify-this-song chasing+pavements
+Song: Chasing Pavements
+Preview_url: https://p.scdn.co/mp3-preview/0cb77f22200a5eaf53bfe3b3a51f352d44e05b3a?cid=null
+Artist: Adele
+Album: 19
+-------------------------------------------------------------------
+spotify-this-song sunshine+on+my+shoulders
+Artist: John Denver
+Song: Sunshine on My Shoulders
+Preview_url: https://p.scdn.co/mp3-preview/6537b269dfda7ad744e42aafc7ed5dc4316515ad?cid=null
+Album: John Denver's Greatest Hits
+-------------------------------------------------------------------
+movie-this the+mask
+Title: The Mask
+Released: 1994
+Produced: USA
+Language: English, Swedish
+Plot: Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.
+Actors: Jim Carrey, Peter Riegert, Peter Greene, Amy Yasbeck
+Rotten_tomato: 77%
+-------------------------------------------------------------------
+movie-this the+mask
+Released: 1994
+Produced: USA
+Language: English, Swedish
+Title: The Mask
+Plot: Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.
+Actors: Jim Carrey, Peter Riegert, Peter Greene, Amy Yasbeck
+Rotten_tomato: 77%
+-------------------------------------------------------------------
+movie-this the+mask
+Title: The Mask
+Released: 1994
+Produced: USA
+Plot: Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.
+Language: English, Swedish
+Actors: Jim Carrey, Peter Riegert, Peter Greene, Amy Yasbeck
+Rotten_tomato: 77%
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Error finding movie 
+-------------------------------------------------------------------
+Error finding movie 
+-------------------------------------------------------------------
+Error finding movie 
+-------------------------------------------------------------------
+Error finding movie 
+-------------------------------------------------------------------
+Error finding movie 
+Error finding movie 
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Error finding movie 
+Error finding movie 
+-------------------------------------------------------------------
+Error finding movie 
+-------------------------------------------------------------------
+Error finding movie 
+-------------------------------------------------------------------
+movie-this the+mask
+Released: 1994
+Title: The Mask
+Plot: Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.
+Actors: Jim Carrey, Peter Riegert, Peter Greene, Amy Yasbeck
+Rotten_tomato: 77%
+Language: English, Swedish
+Produced: USA
+-------------------------------------------------------------------
+movie-this the+mask
+Title: The Mask
+Released: 1994
+Produced: USA
+Language: English, Swedish
+Plot: Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.
+Actors: Jim Carrey, Peter Riegert, Peter Greene, Amy Yasbeck
+Rotten_tomato: 77%
+-------------------------------------------------------------------
+movie-this the+mask
+Title: The Mask
+Released: 1994
+Produced: USA
+Language: English, Swedish
+Plot: Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.
+Actors: Jim Carrey, Peter Riegert, Peter Greene, Amy Yasbeck
+Rotten_tomato: 77%
+-------------------------------------------------------------------
+undefined Error finding moviethe+masloj
+-------------------------------------------------------------------
+undefined Error finding moviethe+masloj
+-------------------------------------------------------------------
+undefined Error finding moviethe+mask
+-------------------------------------------------------------------
+undefined Error finding moviethe+mask
+-------------------------------------------------------------------
+undefined Error finding moviethe+mask
+-------------------------------------------------------------------
+undefined Error finding moviethe+mask
+-------------------------------------------------------------------
+undefined Error finding moviethe+masloj
+-------------------------------------------------------------------
+movie-this the+mask
+Title: The Mask
+Released: 1994
+Produced: USA
+Language: English, Swedish
+Plot: Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.
+Actors: Jim Carrey, Peter Riegert, Peter Greene, Amy Yasbeck
+Rotten_tomato: 77%
+-------------------------------------------------------------------
+undefined Error finding moviethe+masloj
+-------------------------------------------------------------------
+movie-this the+mask
+Title: The Mask
+Produced: USA
+Language: English, Swedish
+Plot: Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.
+Released: 1994
+Actors: Jim Carrey, Peter Riegert, Peter Greene, Amy Yasbeck
+Rotten_tomato: 77%
+-------------------------------------------------------------------
+movie-this the+mask
+Title: The Mask
+Released: 1994
+Produced: USA
+Language: English, Swedish
+Plot: Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.
+Actors: Jim Carrey, Peter Riegert, Peter Greene, Amy Yasbeck
+Rotten_tomato: 77%
+-------------------------------------------------------------------
+Movie not found! Error finding moviethe+masloj
+-------------------------------------------------------------------
+spotify-this-song the+sign+artist:ace+of+base
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview_url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+Song: The Sign
+-------------------------------------------------------------------
+spotify-this-song chasing+pavements
+Artist: Adele
+Song: Chasing Pavements
+Preview_url: https://p.scdn.co/mp3-preview/0cb77f22200a5eaf53bfe3b3a51f352d44e05b3a?cid=null
+Album: 19
+-------------------------------------------------------------------
+spotify-this-song sunshine+on+my+shoulders
+Artist: John Denver
+Preview_url: https://p.scdn.co/mp3-preview/6537b269dfda7ad744e42aafc7ed5dc4316515ad?cid=null
+Song: Sunshine on My Shoulders
+Album: John Denver's Greatest Hits
+-------------------------------------------------------------------
+spotify-this-song the+sign+artist:ace+of+base
+Artist: Ace of Base
+Song: The Sign
+Preview_url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+Album: The Sign (US Album) [Remastered]
+-------------------------------------------------------------------
+do-what-it-says
+File contains: spotify-this-song,"I Want it That Way"spotify-this-song "I Want it That Way"
+Preview_url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+Album: The Hits--Chapter One
+Artist: Backstreet Boys
+Song: I Want It That Way
+-------------------------------------------------------------------
+Movie not found! Error finding moviemr.+nobody
+-------------------------------------------------------------------
+movie-this mr+nobody
+Title: Mr. Nobody
+Released: 2009
+Produced: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten_tomato: 64%
+-------------------------------------------------------------------
+movie-this the+accused
+Released: 1988
+Produced: Canada, USA
+Plot: After a young woman suffers a brutal gang rape in a bar one night, a prosecutor assists in bringing the perpetrators to justice, including the ones who encouraged and cheered on the attack.
+Title: The Accused
+Language: English
+Actors: Kelly McGillis, Jodie Foster, Bernie Coulson, Leo Rossi
+-------------------------------------------------------------------
+Rotten_tomato: 95%
+movie-this the+accused
+Title: The Accused
+Released: 1988
+Produced: Canada, USA
+Language: English
+Plot: After a young woman suffers a brutal gang rape in a bar one night, a prosecutor assists in bringing the perpetrators to justice, including the ones who encouraged and cheered on the attack.
+Actors: Kelly McGillis, Jodie Foster, Bernie Coulson, Leo Rossi
+Rotten_tomato: 95%
+url: undefined
+-------------------------------------------------------------------
