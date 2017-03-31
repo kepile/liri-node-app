@@ -211,3 +211,732 @@ Actors: Kelly McGillis, Jodie Foster, Bernie Coulson, Leo Rossi
 Rotten_tomato: 95%
 url: undefined
 -------------------------------------------------------------------
+Movie not found! Error finding moviethe masloj
+-------------------------------------------------------------------
+Movie not found! Error finding moviedsl lsdfj sldjf
+-------------------------------------------------------------------
+Movie not found! Error finding moviethe sdl lasdf
+-------------------------------------------------------------------
+movie-this The Wizard of Oz
+Country_Produced: USA
+Movie_Title: The Wizard of Oz
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Release_Year: 1939
+Language: English
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+Rotten_tomato_rating: 99%
+Rotten_tomato_url: NaN
+-------------------------------------------------------------------
+movie-this The+Wizard+of+Oz
+Movie_Title: The Wizard of Oz
+Release_Year: 1939
+Country_Produced: USA
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Language: English
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+Rotten_tomato_rating: 99%
+Rotten_tomato_url: NaN
+-------------------------------------------------------------------
+movie-this The+Wizard+of+Oz
+Movie_Title: The Wizard of Oz
+Release_Year: 1939
+Country_Produced: USA
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Language: English
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+Rotten_tomato_rating: 99%
+Rotten_tomato_url: https://www.rottentomatoes.com/m/thewizardofoz/
+-------------------------------------------------------------------
+movie-this The+Wizard+of+Oz
+Movie_Title: The Wizard of Oz
+Release_Year: 1939
+Country_Produced: USA
+Language: English
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+Rotten_tomato_rating: 99%
+Rotten_tomato_url: https://www.rottentomatoes.com/m/the_wizard_of_oz/
+-------------------------------------------------------------------
+movie-this The+Wizard+of+Oz
+Movie_Title: The Wizard of Oz
+Release_Year: 1939
+Country_Produced: USA
+Language: English
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+Rotten_tomato_rating: 99%
+Rotten_tomato_url: https://www.rottentomatoes.com/m/the_wizard_of_oz/
+-------------------------------------------------------------------
+movie-this The+Wizard+of+Oz
+Movie_Title: The Wizard of Oz
+Release_Year: 1939
+Country_Produced: USA
+Language: English
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+Rotten_tomato_rating: 99%
+Rotten_tomato_url: https://www.rottentomatoes.com/m/the_wizard_of_oz/
+-------------------------------------------------------------------
+movie-this The+Wizard+of+Oz
+Movie_Title: The Wizard of Oz
+Language: English
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Release_Year: 1939
+Country_Produced: USA
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+Rotten_tomato_rating: 99%
+Rotten_tomato_url: https://www.rottentomatoes.com/m/_wizard_of_oz/
+-------------------------------------------------------------------
+movie-this The+Wizard+of+Oz
+Movie_Title: The Wizard of Oz
+Language: English
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Release_Year: 1939
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+Country_Produced: USA
+Rotten_tomato_rating: 99%
+Rotten_tomato_url: https://www.rottentomatoes.com/m/_wizard_of_oz/
+-------------------------------------------------------------------
+movie-this The+Wizard+of+Oz
+Movie_Title: The Wizard of Oz
+Country_Produced: USA
+Language: English
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Release_Year: 1939
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+Rotten_tomato_rating: 99%
+Rotten_tomato_url: https://www.rottentomatoes.com/m/wizard_of_oz/
+-------------------------------------------------------------------
+movie-this The Wizard of Oz
+Release_Year: 1939
+Movie_Title: The Wizard of Oz
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Country_Produced: USA
+Rotten_tomato_rating: 99%
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+Rotten_tomato_url: https://www.rottentomatoes.com/m/the wizard of oz/
+Language: English
+-------------------------------------------------------------------
+movie-this The Wizard of Oz
+Movie_Title: The Wizard of Oz
+Release_Year: 1939
+Country_Produced: USA
+Language: English
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+Rotten_tomato_rating: 99%
+Rotten_tomato_url: https://www.rottentomatoes.com/m/wizard_of_oz/
+-------------------------------------------------------------------
+movie-this The+Wizard+of+Oz
+Movie_Title: The Wizard of Oz
+Language: English
+Release_Year: 1939
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Country_Produced: USA
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+Rotten_tomato_url: https://www.rottentomatoes.com/m/wizard_of_oz/
+-------------------------------------------------------------------
+Rotten_tomato_rating: 99%
+Movie not found! Error finding moviedsjsdfjkl
+-------------------------------------------------------------------
+movie-this oz
+Movie_Title: Oz
+Release_Year: 1997–2003
+Country_Produced: USA
+Language: English
+Plot: A series chronicling the daily activities of an unusual prison facility and its criminal inhabitants.
+Actors: Ernie Hudson, J.K. Simmons, Lee Tergesen, Dean Winters
+Rotten_tomato_rating: 
+Rotten_tomato_url: https://www.rottentomatoes.com/m/oz/
+-------------------------------------------------------------------
+Movie not found! Error finding moviedsjsdfjkl
+-------------------------------------------------------------------
+movie-this The+Wizard+of+Oz
+Movie_Title: The Wizard of Oz
+Country_Produced: USA
+Language: English
+Release_Year: 1939
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+Rotten_tomato_rating: 99%
+Rotten_tomato_url: https://www.rottentomatoes.com/m/wizard_of_oz/
+-------------------------------------------------------------------
+movie-this oz
+Movie_Title: Oz
+Release_Year: 1997–2003
+Country_Produced: USA
+Language: English
+Plot: A series chronicling the daily activities of an unusual prison facility and its criminal inhabitants.
+Actors: Ernie Hudson, J.K. Simmons, Lee Tergesen, Dean Winters
+Rotten_tomato_rating: Not Available
+Rotten_tomato_url: https://www.rottentomatoes.com/m/oz/
+-------------------------------------------------------------------
+movie-this The Wizard of Oz
+Movie_Title: The Wizard of Oz
+Country_Produced: USA
+Release_Year: 1939
+Language: English
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+Rotten_tomato_rating: 99%
+Rotten_tomato_url: https://www.rottentomatoes.com/m/wizard_of_oz/
+-------------------------------------------------------------------
+spotify-this-song chasing pavements
+Song: Chasing Pavements
+Preview_url: https://p.scdn.co/mp3-preview/0cb77f22200a5eaf53bfe3b3a51f352d44e05b3a?cid=null
+Artist: Adele
+Album: 19
+-------------------------------------------------------------------
+spotify-this-song chasing+pavements
+Artist: Adele
+Song: Chasing Pavements
+Preview_url: https://p.scdn.co/mp3-preview/0cb77f22200a5eaf53bfe3b3a51f352d44e05b3a?cid=null
+Album: 19
+-------------------------------------------------------------------
+spotify-this-song chasing+pavements
+Artist: Adele
+Song: Chasing Pavements
+Preview_url: https://p.scdn.co/mp3-preview/0cb77f22200a5eaf53bfe3b3a51f352d44e05b3a?cid=null
+Album: 19
+-------------------------------------------------------------------
+spotify-this-song chasing+pavements
+Artist: Adele
+Song: Chasing Pavements
+Preview_url: https://p.scdn.co/mp3-preview/0cb77f22200a5eaf53bfe3b3a51f352d44e05b3a?cid=null
+Album: 19
+-------------------------------------------------------------------
+spotify-this-song chasing+pavements
+Artist: Adele
+Preview_url: https://p.scdn.co/mp3-preview/0cb77f22200a5eaf53bfe3b3a51f352d44e05b3a?cid=null
+Album: 19
+Song: Chasing Pavements
+-------------------------------------------------------------------
+spotify-this-song chasing+pavements
+Artist: Adele
+Song: Chasing Pavements
+Preview_url: https://p.scdn.co/mp3-preview/0cb77f22200a5eaf53bfe3b3a51f352d44e05b3a?cid=null
+Album: 19
+-------------------------------------------------------------------
+spotify-this-song chasing+pavements
+Artist: Adele
+Song: Chasing Pavements
+Album: 19
+Preview_url: https://p.scdn.co/mp3-preview/0cb77f22200a5eaf53bfe3b3a51f352d44e05b3a?cid=null
+-------------------------------------------------------------------
+spotify-this-song chasing+pavements
+Song: Chasing Pavements
+Artist: Adele
+Preview_url: https://p.scdn.co/mp3-preview/0cb77f22200a5eaf53bfe3b3a51f352d44e05b3a?cid=null
+Album: 19
+-------------------------------------------------------------------
+spotify-this-song chasing+pavements
+Artist: Adele
+Preview_url: https://p.scdn.co/mp3-preview/0cb77f22200a5eaf53bfe3b3a51f352d44e05b3a?cid=null
+Song: Chasing Pavements
+Album: 19
+-------------------------------------------------------------------
+Error occurred trying to find song asdslkj: undefined 
+-------------------------------------------------------------------
+spotify-this-song chasing+pavements
+Artist: Adele
+Preview_url: https://p.scdn.co/mp3-preview/0cb77f22200a5eaf53bfe3b3a51f352d44e05b3a?cid=null
+Album: 19
+Song: Chasing Pavements
+-------------------------------------------------------------------
+Error occurred trying to find song asdslkj: undefined 
+-------------------------------------------------------------------
+Error occurred trying to find song asdslkj: undefined 
+-------------------------------------------------------------------
+Error occurred trying to find song asdslkj: undefined 
+-------------------------------------------------------------------
+Error occurred trying to find song asdslkj: undefined 
+-------------------------------------------------------------------
+Error occurred trying to find song asdslkj: undefined 
+-------------------------------------------------------------------
+Command: tweet-this is undefined 
+-------------------------------------------------------------------
+my-tweets
+Tue, Mar 28, 2017 @ 16:42:48: https://t.co/s9wZFan3oN
+Tue, Mar 28, 2017 @ 16:41:40: https://t.co/YLjwTA0LtY
+Tue, Mar 28, 2017 @ 16:38:32: Tasting Room is Giving Liquor Stores a Run for Their Money via @popdust https://t.co/jgaehqFKoQ
+Tue, Mar 28, 2017 @ 16:37:47: https://t.co/9nCgEiYqQC
+Tue, Mar 28, 2017 @ 16:37:19: https://t.co/nAhS9WHwJh
+Fri, Apr 03, 2015 @ 20:41:27: @FCC I want my FM radio! Encourage FM chip activation on all smartphones so I can get lifesaving info for free! #publicsafety #freeradio
+Fri, Apr 03, 2015 @ 20:41:10: @VerizonSupport I want my FM radio! Unlock the FM chip on all @Verizonwireless phones so I can listen for free! #unlockFM #freeradio
+-------------------------------------------------------------------
+my-tweets
+-------------------------------------------------------------------
+Tue, Mar 28, 2017 @ 16:42:48: https://t.co/s9wZFan3oN
+Tue, Mar 28, 2017 @ 16:41:40: https://t.co/YLjwTA0LtY
+Tue, Mar 28, 2017 @ 16:38:32: Tasting Room is Giving Liquor Stores a Run for Their Money via @popdust https://t.co/jgaehqFKoQ
+Tue, Mar 28, 2017 @ 16:37:47: https://t.co/9nCgEiYqQC
+Tue, Mar 28, 2017 @ 16:37:19: https://t.co/nAhS9WHwJh
+Fri, Apr 03, 2015 @ 20:41:27: @FCC I want my FM radio! Encourage FM chip activation on all smartphones so I can get lifesaving info for free! #publicsafety #freeradio
+Fri, Apr 03, 2015 @ 20:41:10: @VerizonSupport I want my FM radio! Unlock the FM chip on all @Verizonwireless phones so I can listen for free! #unlockFM #freeradio
+my-tweets
+-------------------------------------------------------------------
+Tue, Mar 28, 2017 @ 16:42:48: https://t.co/s9wZFan3oN
+Tue, Mar 28, 2017 @ 16:38:32: Tasting Room is Giving Liquor Stores a Run for Their Money via @popdust https://t.co/jgaehqFKoQ
+Tue, Mar 28, 2017 @ 16:41:40: https://t.co/YLjwTA0LtY
+Tue, Mar 28, 2017 @ 16:37:47: https://t.co/9nCgEiYqQC
+Tue, Mar 28, 2017 @ 16:37:19: https://t.co/nAhS9WHwJh
+Fri, Apr 03, 2015 @ 20:41:27: @FCC I want my FM radio! Encourage FM chip activation on all smartphones so I can get lifesaving info for free! #publicsafety #freeradio
+Fri, Apr 03, 2015 @ 20:41:10: @VerizonSupport I want my FM radio! Unlock the FM chip on all @Verizonwireless phones so I can listen for free! #unlockFM #freeradio
+Command: my-twee is undefined 
+-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+File contains: spotify-this-song,-------------------------------------------------------------------
+-------------------------------------------------------------------
+Error occurred trying to find song asdslkj: undefined 
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Error occurred trying to find song asdslkj: undefined 
+-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+File contains: spotify-this-song,-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+File contains: spotify-this-song,-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+File contains: spotify-this-song,do-what-it-says
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+File contains: spotify-this-song,do-what-it-says
+-------------------------------------------------------------------
+File contains: spotify-this-song,-------------------------------------------------------------------
+Artist: Ace of Base
+spotify-this-song the+sign+artist:ace+of+base
+Preview_url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+Song: The Sign
+Album: The Sign (US Album) [Remastered]
+do-what-it-says
+-------------------------------------------------------------------
+File contains: spotify-this-song,-------------------------------------------------------------------
+spotify-this-song the+sign+artist:ace+of+base
+Artist: Ace of Base
+Song: The Sign
+Preview_url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+Album: The Sign (US Album) [Remastered]
+do-what-it-says
+-------------------------------------------------------------------
+File contains: spotify-this-song "I Want it That Way"Command: spotify-this-song "I Want it That Way" is undefined 
+-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+File contains: "I Want it That Way"Command: "I Want it That Way" is undefined 
+-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+File contains: spotify-this-song, I Want it That Way-------------------------------------------------------------------
+spotify-this-song  I Want it That Way
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview_url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+Album: The Hits--Chapter One
+Command: do-what-it-say is undefined 
+-------------------------------------------------------------------
+Command: do-what-it-say is undefined 
+-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+my-tweets
+File contains: my-tweets-------------------------------------------------------------------
+Tue, Mar 28, 2017 @ 16:42:48: https://t.co/s9wZFan3oN
+Tue, Mar 28, 2017 @ 16:41:40: https://t.co/YLjwTA0LtY
+Tue, Mar 28, 2017 @ 16:38:32: Tasting Room is Giving Liquor Stores a Run for Their Money via @popdust https://t.co/jgaehqFKoQ
+Tue, Mar 28, 2017 @ 16:37:47: https://t.co/9nCgEiYqQC
+Tue, Mar 28, 2017 @ 16:37:19: https://t.co/nAhS9WHwJh
+Fri, Apr 03, 2015 @ 20:41:27: @FCC I want my FM radio! Encourage FM chip activation on all smartphones so I can get lifesaving info for free! #publicsafety #freeradio
+Fri, Apr 03, 2015 @ 20:41:10: @VerizonSupport I want my FM radio! Unlock the FM chip on all @Verizonwireless phones so I can listen for free! #unlockFM #freeradio
+Command: do-what-it-say is undefined 
+-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+File contains: movie-this, Movie not found! Error finding movie 
+do-what-it-says
+-------------------------------------------------------------------
+File contains: movie-this, -------------------------------------------------------------------
+Movie not found! Error finding movie 
+do-what-it-says
+-------------------------------------------------------------------
+File contains: movie-this, -------------------------------------------------------------------
+movie-this mr+nobody
+Movie_Title: Mr. Nobody
+Country_Produced: Belgium, Germany, Canada, France
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Language: English, Mohawk
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten_tomato_url: https://www.rottentomatoes.com/m/mr_nobody/
+Release_Year: 2009
+Rotten_tomato_rating: 64%
+do-what-it-says
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+File contains: movie-thismovie-this mr+nobody
+Movie_Title: Mr. Nobody
+Release_Year: 2009
+Country_Produced: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten_tomato_rating: 64%
+Rotten_tomato_url: https://www.rottentomatoes.com/m/mr_nobody/
+do-what-it-says
+-------------------------------------------------------------------
+File contains: spotify-this-song, -------------------------------------------------------------------
+spotify-this-song the+sign+artist:ace+of+base
+Preview_url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+Album: The Sign (US Album) [Remastered]
+Artist: Ace of Base
+Song: The Sign
+do-what-it-says
+-------------------------------------------------------------------
+File contains: spotify-this-song-------------------------------------------------------------------
+spotify-this-song the+sign+artist:ace+of+base
+Preview_url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+Album: The Sign (US Album) [Remastered]
+Artist: Ace of Base
+Song: The Sign
+do-what-it-says
+-------------------------------------------------------------------
+File contains: movie-this-------------------------------------------------------------------
+Movie_Title: Mr. Nobody
+Country_Produced: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Rotten_tomato_rating: 64%
+Rotten_tomato_url: https://www.rottentomatoes.com/m/mr_nobody/
+movie-this mr+nobody
+Release_Year: 2009
+do-what-it-says
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+File contains: movie-this,Something went wrong. Error finding movie
+do-what-it-says
+-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+Command: movie is undefined 
+-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+File contains: movie-this-------------------------------------------------------------------
+movie-this mr+nobody
+Movie_Title: Mr. Nobody
+Country_Produced: Belgium, Germany, Canada, France
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Release_Year: 2009
+Rotten_tomato_url: https://www.rottentomatoes.com/m/mr_nobody/
+Rotten_tomato_rating: 64%
+Language: English, Mohawk
+do-what-it-says
+-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+File contains: movie-this, Die Hard-------------------------------------------------------------------
+movie-this  Die Hard
+Movie_Title: Live Free or Die Hard
+Release_Year: 2007
+Country_Produced: USA, UK
+Language: English, Italian, French
+Plot: John McClane and a young hacker join forces to take down master cyber-terrorist Thomas Gabriel in Washington D.C.
+Actors: Bruce Willis, Timothy Olyphant, Justin Long, Maggie Q
+Rotten_tomato_rating: 82%
+Rotten_tomato_url: https://www.rottentomatoes.com/m/_die_hard/
+do-what-it-says
+-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+File contains: movie-this, Die Hard-------------------------------------------------------------------
+Movie_Title: Live Free or Die Hard
+Release_Year: 2007
+Language: English, Italian, French
+Actors: Bruce Willis, Timothy Olyphant, Justin Long, Maggie Q
+Plot: John McClane and a young hacker join forces to take down master cyber-terrorist Thomas Gabriel in Washington D.C.
+Rotten_tomato_rating: 82%
+Country_Produced: USA, UK
+Rotten_tomato_url: https://www.rottentomatoes.com/m/_die_hard/
+movie-this  Die Hard
+do-what-it-says
+-------------------------------------------------------------------
+File contains: movie-this, -------------------------------------------------------------------
+movie-this mr+nobody
+Movie_Title: Mr. Nobody
+Country_Produced: Belgium, Germany, Canada, France
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Language: English, Mohawk
+Rotten_tomato_rating: 64%
+Release_Year: 2009
+Rotten_tomato_url: https://www.rottentomatoes.com/m/mr_nobody/
+do-what-it-says
+-------------------------------------------------------------------
+File contains: movie-this-------------------------------------------------------------------
+movie-this mr+nobody
+Movie_Title: Mr. Nobody
+Country_Produced: Belgium, Germany, Canada, France
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Language: English, Mohawk
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten_tomato_url: https://www.rottentomatoes.com/m/mr_nobody/
+Release_Year: 2009
+Rotten_tomato_rating: 64%
+do-what-it-says
+-------------------------------------------------------------------
+File contains: spotify-this-song, "I Want it That Way"-------------------------------------------------------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview_url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+spotify-this-song  "I Want it That Way"
+Album: The Hits--Chapter One
+do-what-it-says
+-------------------------------------------------------------------
+File contains: movie-this ozCommand: movie-this oz is undefined 
+-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+File contains: movie-this, ozmovie-this  oz
+Movie_Title: The Wizard of Oz
+Language: English
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Release_Year: 1939
+Country_Produced: USA
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+Rotten_tomato_rating: 99%
+Rotten_tomato_url: https://www.rottentomatoes.com/m/_oz/
+do-what-it-says
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+File contains: movie-this, the wizard of ozdo-what-it-says
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+File contains: movie-this, the wizard of oz-------------------------------------------------------------------
+movie-this oz
+Movie_Title: Oz
+Language: English
+Plot: A series chronicling the daily activities of an unusual prison facility and its criminal inhabitants.
+Release_Year: 1997–2003
+Actors: Ernie Hudson, J.K. Simmons, Lee Tergesen, Dean Winters
+Country_Produced: USA
+Rotten_tomato_rating: Not Available
+Rotten_tomato_url: https://www.rottentomatoes.com/m/oz/
+-------------------------------------------------------------------
+movie-this The+Wizard+of+Oz
+Movie_Title: The Wizard of Oz
+Language: English
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Release_Year: 1939
+Rotten_tomato_rating: 99%
+Rotten_tomato_url: https://www.rottentomatoes.com/m/wizard_of_oz/
+Country_Produced: USA
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+do-what-it-says
+-------------------------------------------------------------------
+File contains: movie-this, the wizard of oz-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+File contains: movie-this, the wizard of oz-------------------------------------------------------------------
+do-what-it-says
+-------------------------------------------------------------------
+File contains: movie-this, the wizard of oz-------------------------------------------------------------------
+movie-this  the wizard of oz
+Movie_Title: Tom and Jerry & The Wizard of Oz
+Language: English
+Plot: Tom the Cat and Jerry the Mouse get whisked away into The land of Oz.
+Actors: Grey DeLisle, Nikki Yanofsky, Joe Alaskey, Michael Gough
+Release_Year: 2011
+Country_Produced: USA
+Rotten_tomato_rating: Not Available
+Rotten_tomato_url: https://www.rottentomatoes.com/m/_the_wizard_of_oz/
+-------------------------------------------------------------------
+movie-this oz
+Movie_Title: Oz
+Country_Produced: USA
+Release_Year: 1997–2003
+Plot: A series chronicling the daily activities of an unusual prison facility and its criminal inhabitants.
+Rotten_tomato_rating: Not Available
+Actors: Ernie Hudson, J.K. Simmons, Lee Tergesen, Dean Winters
+Rotten_tomato_url: https://www.rottentomatoes.com/m/oz/
+Language: English
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+movie-this oz
+Movie_Title: Oz
+Language: English
+Plot: A series chronicling the daily activities of an unusual prison facility and its criminal inhabitants.
+Actors: Ernie Hudson, J.K. Simmons, Lee Tergesen, Dean Winters
+Rotten_tomato_rating: Not Available
+Rotten_tomato_url: https://www.rottentomatoes.com/m/oz/
+Release_Year: 1997–2003
+Country_Produced: USA
+do-what-it-says
+-------------------------------------------------------------------
+File contains: movie-this, the wizard of oz-------------------------------------------------------------------
+movie-this  the wizard of oz
+Movie_Title: Tom and Jerry & The Wizard of Oz
+Language: English
+Plot: Tom the Cat and Jerry the Mouse get whisked away into The land of Oz.
+Country_Produced: USA
+Rotten_tomato_rating: Not Available
+Rotten_tomato_url: https://www.rottentomatoes.com/m/_the_wizard_of_oz/
+Actors: Grey DeLisle, Nikki Yanofsky, Joe Alaskey, Michael Gough
+Release_Year: 2011
+do-what-it-says
+-------------------------------------------------------------------
+File contains: movie-this, the wizard of oz-------------------------------------------------------------------
+movie-this  the wizard of oz
+Movie_Title: Tom and Jerry & The Wizard of Oz
+Language: English
+Plot: Tom the Cat and Jerry the Mouse get whisked away into The land of Oz.
+Actors: Grey DeLisle, Nikki Yanofsky, Joe Alaskey, Michael Gough
+Rotten_tomato_rating: Not Available
+Rotten_tomato_url: https://www.rottentomatoes.com/m/_the_wizard_of_oz/
+Release_Year: 2011
+Country_Produced: USA
+do-what-it-says
+-------------------------------------------------------------------
+File contains: movie-this, the wizard of oz-------------------------------------------------------------------
+movie-this the wizard of oz
+Movie_Title: The Wizard of Oz
+Language: English
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Rotten_tomato_rating: 99%
+Rotten_tomato_url: https://www.rottentomatoes.com/m/wizard_of_oz/
+Release_Year: 1939
+Country_Produced: USA
+do-what-it-says
+-------------------------------------------------------------------
+File contains: movie-this, the wizard of oz-------------------------------------------------------------------
+movie-this the wizard of oz
+Movie_Title: The Wizard of Oz
+Release_Year: 1939
+Country_Produced: USA
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Language: English
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+Rotten_tomato_rating: 99%
+Rotten_tomato_url: https://www.rottentomatoes.com/m/wizard_of_oz/
+-------------------------------------------------------------------
+movie-this the+wizard+of+oz
+Movie_Title: The Wizard of Oz
+Language: English
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Release_Year: 1939
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+Country_Produced: USA
+Rotten_tomato_rating: 99%
+Rotten_tomato_url: https://www.rottentomatoes.com/m/wizard_of_oz/
+-------------------------------------------------------------------
+movie-this   the wizard of oz
+Movie_Title: The Wizard of Oz
+Language: English
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Country_Produced: USA
+Release_Year: 1939
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+Rotten_tomato_rating: 99%
+Rotten_tomato_url: https://www.rottentomatoes.com/m/__the_wizard_of_oz/
+-------------------------------------------------------------------
+movie-this   the wizard of oz
+Movie_Title: The Wizard of Oz
+Country_Produced: USA
+Release_Year: 1939
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Language: English
+Rotten_tomato_url: https://www.rottentomatoes.com/m/__the_wizard_of_oz/
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+Rotten_tomato_rating: 99%
+do-what-it-says
+-------------------------------------------------------------------
+File contains: movie-this, the wiza-------------------------------------------------------------------
+Movie not found! Error finding moviethe wiza
+do-what-it-says
+-------------------------------------------------------------------
+File contains: spotify-this-song, " I Want it That Way"-------------------------------------------------------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview_url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+spotify-this-song " I Want it That Way"
+Album: The Hits--Chapter One
+do-what-it-says
+-------------------------------------------------------------------
+File contains: spotify-this-song,   I Want it That Way-------------------------------------------------------------------
+spotify-this-song I Want it That Way
+Preview_url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+Album: The Hits--Chapter One
+Artist: Backstreet Boys
+Song: I Want It That Way
+-------------------------------------------------------------------
+do-what-it-says
+File contains: spotify-this-song,   I Want it That Way-------------------------------------------------------------------
+spotify-this-song I Want it That Way
+Preview_url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Artist: Backstreet Boys
+-------------------------------------------------------------------
+movie-this   the wizard of oz
+Movie_Title: The Wizard of Oz
+Language: English
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+Rotten_tomato_rating: 99%
+Release_Year: 1939
+Rotten_tomato_url: https://www.rottentomatoes.com/m/__the_wizard_of_oz/
+Country_Produced: USA
+-------------------------------------------------------------------
+my-tweets
+Tue, Mar 28, 2017 @ 16:42:48: https://t.co/s9wZFan3oN
+Tue, Mar 28, 2017 @ 16:38:32: Tasting Room is Giving Liquor Stores a Run for Their Money via @popdust https://t.co/jgaehqFKoQ
+Tue, Mar 28, 2017 @ 16:37:19: https://t.co/nAhS9WHwJh
+Tue, Mar 28, 2017 @ 16:37:47: https://t.co/9nCgEiYqQC
+Fri, Apr 03, 2015 @ 20:41:27: @FCC I want my FM radio! Encourage FM chip activation on all smartphones so I can get lifesaving info for free! #publicsafety #freeradio
+Tue, Mar 28, 2017 @ 16:41:40: https://t.co/YLjwTA0LtY
+Fri, Apr 03, 2015 @ 20:41:10: @VerizonSupport I want my FM radio! Unlock the FM chip on all @Verizonwireless phones so I can listen for free! #unlockFM #freeradio
+-------------------------------------------------------------------
+Command: spotify-this is undefined 
+-------------------------------------------------------------------
+spotify-this-song chasing+pavements
+Artist: Adele
+Song: Chasing Pavements
+Preview_url: https://p.scdn.co/mp3-preview/0cb77f22200a5eaf53bfe3b3a51f352d44e05b3a?cid=null
+Album: 19
+-------------------------------------------------------------------
+spotify-this-song hello
+Song: Hello
+Artist: Adele
+Preview_url: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=null
+Album: Hello
+-------------------------------------------------------------------
+Artist: Adele
+spotify-this-song hello
+Preview_url: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=null
+Album: Hello
+Song: Hello
