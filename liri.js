@@ -110,11 +110,7 @@ function movie(){
 			input[0] = input[0].replace(/"/g, '');
 			input = input[0].split(" ");
 
-       		for (i=0; i<input.length; i++){
-		
-	console.log("i= " + input[i]);
-	};
-		};
+ 		};
 
 		// loop thru movie name array
 		for (i=0; i< input.length; i++){
@@ -149,7 +145,7 @@ function movie(){
 			else {
 				rating = response.Ratings[1].Value;;
 			};
-
+           
 			// store the data in an object for display
 			var output = {
 				Movie_Title: response.Title,
@@ -205,17 +201,22 @@ function song() {
 	        return;
 	    };
 
+	    var result = data.tracks.items;
+	    for (i=0; i < result.length; i++){
+				// console.log(result[i]);
+
 	    // a valid response was returned so store results in an object
-	    var result = data.tracks.items[0];
 		var output = {
-		    Artist: result.artists[0].name,
+			Response_number: i,
+		    Artist: result[i].artists[0].name,
 		    Song: result.name,
-		    Preview_url: result.preview_url,
-			Album: result.album.name
+		    Preview_url: result[i].preview_url,
+			Album: result[i].album.name
 		};
 
 		// print the object
 		printResult(output, song);
+	};
 
   });
 }
